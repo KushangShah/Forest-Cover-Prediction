@@ -1,8 +1,4 @@
-<div align="left" style="margin-bottom: 40px; display: flex; align-items: center; gap: 10px;">
-  <img src="images/UM_Logo.png" alt="Unified Mentors Private Limited" height="40px">
-  <span style="font-size: 15px; font-weight: 500; color: #7e7e7eff;">Unified Mentors Private Limited</span>
-</div>
-
+<div align='left' style="margin-bottom: 40px;"><img height="30px" src="images/UM_Logo.png" alt="Unified Mentor Private Limited"></a><br>Unified Mentor Private Limited </div>
 
 <!-- Image Logo -->
 <div align="center">
