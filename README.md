@@ -119,10 +119,10 @@
 <summary style="font-size: 20px; text-align:center;"> Visualizations/Chart. </summary>
 <p align="center">
     <img src="images/Chart1.png" alt="Insights Visualization 1" width="400" style="border-radius: 20px; margin: 10px;">
-    <img src="images/Chart4.png" alt="Insights Visualization 2" width="400" style="border-radius: 20px; margin: 10px;">
-    <img src="images/Chart9.png" alt="Insights Visualization 3" width="400" style="border-radius: 20px; margin: 10px;">
-    <img src="images/Chart10-1.png" alt="Insights Visualization 3" width="400" style="border-radius: 20px; margin: 10px;">
-    <img src="images/Chart10-2.png" alt="Insights Visualization 3" width="400" height="160" style="border-radius: 20px; margin: 10px;">
+    <img src="images/chart4.png" alt="Insights Visualization 2" width="400" style="border-radius: 20px; margin: 10px;">
+    <img src="images/chart9.png" alt="Insights Visualization 3" width="400" style="border-radius: 20px; margin: 10px;">
+    <img src="images/chart10-1.png" alt="Insights Visualization 3" width="400" style="border-radius: 20px; margin: 10px;">
+    <img src="images/chart10-2.png" alt="Insights Visualization 3" width="400" height="160" style="border-radius: 20px; margin: 10px;">
     <img src="images/ML_Comparision.png" alt="Insights Visualization 3" width="400" style="border-radius: 20px; margin: 10px;">
     <img src="images/BestModel.png" alt="Insights Visualization 3" width="400" style="border-radius: 20px; margin: 10px;">
     <img src="images/ConfusionMatric.png" alt="Insights Visualization 3" width="400" style="border-radius: 20px; margin: 10px;">
