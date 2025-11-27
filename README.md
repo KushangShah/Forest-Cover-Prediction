@@ -7,7 +7,7 @@
 <br>
 
 <!-- project and ML title -->
-<h1 align='center' style="margin-bottom: 0px;">
+<h1 align='center' style="margin-bottom: -45px;">
 <!-- <a href="https://git.io/typing-svg"> -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=25&duration=5500&pause=1000&color=00FFFF&center=true&random=false&width=600&lines=Forest+Cover+Prediction" alt="Typing SVG" />
 </a></h1>
@@ -38,7 +38,7 @@
 <!-- About this Project -->
 <br><br>
 ## About this Project:
-<p style="font-size:15px;">
+<p style="font-size:18px;">
     This project, completed under Unified Mentors Private Limited, focuses on predicting forest cover types using environmental and geographical data to support land management and conservation. Using a dataset of 15,120 records with 56 features such as Elevation, Slope, Aspect, and Hillshade, the study built and compared multiple machine learning models. After analysis and feature evaluation, Random Forest emerged as the best performer, accurately classifying seven forest types and highlighting key environmental predictors that influence forest distribution.
     <br><br>
 </p>
@@ -46,14 +46,17 @@
 ---
 <br><br>
 ## Problem Statement:
-
+<p style="font-size:18px;">
 - Can we accurately predict the type of forest cover in a given area solely based on its geographical and environmental characteristics?<br>
 - Which specific environmental factors (like elevation, slope, or proximity to water and roads) are the most influential in determining the dominant forest type?<br>
 - How can we leverage machine learning to build a robust model that distinguishes between seven distinct forest cover classes?<br>
 - What are the implications of accurate forest cover prediction for sustainable land management, conservation efforts, and understanding ecological patterns?<br>
 - Can a predictive model help in identifying areas vulnerable to changes in forest composition due to environmental shifts or human activity?<br>
-<br><br>
+</p>
+<br>
+
 ---
+
 <br><br>
 <!-- What Data set Containes -->
 <!-- columns and their descriptions -->
@@ -62,7 +65,7 @@
     What Data Set Contains?
 </summary>
 <br>
-<p style="font-size:16px; test-align: left;">
+<p style="font-size:18px; test-align: left;">
 1. Elevation - Elevation in meters.<br><br>
 2. Aspect - Aspect in degrees azimuth.<br><br>
 3. Slope - Slope in degrees.<br><br>
@@ -94,7 +97,7 @@
 <details open> 
   <summary style="font-size: 20px; text-align:center;"> Main Libraries Used </summary> 
   <br> 
-  <p style="font-size:16px;">
+  <p style="font-size:18px;">
   🔢 <b>NumPy</b> – For numerical computations and efficient array manipulation.<br>
   📊 <b>Pandas</b> – To load, clean, and analyze structured datasets.<br>
   📈 <b>Matplotlib & Seaborn</b> – For creating visualizations that explore data distributions, correlations, and feature relationships.<br>
@@ -132,7 +135,7 @@
 ---
 <br><br>
 ## Conclusion:
-<p style="font-size:16px;">
+<p style="font-size:18px;">
 The analysis of the forest cover prediction dataset revealed that the data was clean and well-structured, though slightly imbalanced across cover types. Exploratory analysis showed **Elevation** as the strongest predictor, with features like Slope, Aspect, Hillshade, and distances to hydrology and roads also influencing forest types. Correlation and visualization plots highlighted meaningful feature relationships. Several models were tested, and among them, **Random Forest** achieved the best accuracy, outperforming Decision Tree and performing competitively with Gradient Boosting, XGBoost, and LightGBM. The model was saved, reloaded, and validated successfully, proving reliable for prediction. Overall, the project identified key environmental factors affecting forest cover and demonstrated the effectiveness of machine learning—especially Random Forest—for ecological analysis and land management insights.
 </p>
 <br><br>
@@ -140,7 +143,7 @@ The analysis of the forest cover prediction dataset revealed that the data was c
 ---
 <br><br>
 ### Acknowledgments:
-<p style="font-size: 11px;">
+<p style="font-size: 15px;">
 This project is dedicated to applying machine learning techniques to understand and predict forest cover types, contributing to sustainable land and resource management. Sincere thanks to Unified Mentors Private Limited for providing the opportunity and platform to carry out this work. Appreciation is also extended to the open-source community for developing the powerful tools and libraries that made this project possible.
 </p>
 <p align="right" > Created with 🧠 by <a href="https://github.com/KushangShah">Kushang Shah</a></p>
